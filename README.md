@@ -1,6 +1,6 @@
 # mecab-cygwin64
 
-[MeCab](https://github.com/taku910/mecab) 0.996 for [Cygwin64](https://www.cygwin.com/), using with [UD-Kanbun](https://github.com/KoichiYasuoka/ud-kanbun) and [UniDic2UD](https://github.com/KoichiYasuoka/unidic2ud).
+[MeCab](https://github.com/taku910/mecab) 0.996 for [Cygwin64](https://www.cygwin.com/), using with [UD-Kanbun](https://github.com/KoichiYasuoka/ud-kanbun), [UniDic2UD](https://github.com/KoichiYasuoka/unidic2ud), and [cabocha-cygwin64](https://github.com/KoichiYasuoka/cabocha-cygwin64).
 
 ## Usage
 
