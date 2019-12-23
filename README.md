@@ -12,7 +12,7 @@ Only for Cygwin64 with `git`:
 
 ```sh
 cd /tmp
-git clone https://github.com/KoichiYasuoka/mecab-cygwin64.git
+git clone --depth=1 https://github.com/KoichiYasuoka/mecab-cygwin64
 cd mecab-cygwin64
 sh -x ./install.sh /usr/local
 ```
